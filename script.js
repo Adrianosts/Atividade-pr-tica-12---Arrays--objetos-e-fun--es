@@ -107,4 +107,4 @@ console.log(sobreNomeSilva)
 const nomes = data.map((pessoas) => pessoas.nome)
 console.log(nomes)
 
-
+console.log("FIM")
